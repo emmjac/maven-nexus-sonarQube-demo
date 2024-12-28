@@ -65,7 +65,7 @@
         <activeByDefault>true</activeByDefault> <!-- Always active -->
       </activation>
       <properties>
-        <sonar.host.url>http://3.84.240.100:9000</sonar.host.url>
+        <sonar.host.url>http://3.87.23.87:9000</sonar.host.url>
       </properties>
     </profile>
   </profiles>
