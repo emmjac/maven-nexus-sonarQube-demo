@@ -53,7 +53,7 @@
         <repository>
           <id>nexus-release-repo</id>
           <name>Release Repository</name>
-          <url>http://54.211.65.44:8081/repository/maven-release/</url>
+          <url>http://54.234.171.93:8081/repository/maven-release/</url>
         </repository>
       </repositories>
     </profile>
